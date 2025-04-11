@@ -1,6 +1,6 @@
 # Refactoring Type Prediction with Transformers
 
-This repository contains code and experiments from my master's thesis on predicting software refactoring types using Transformer-based models (CodeBERT and CodeT5).
+This repository contains code and experiments from master's thesis on predicting software refactoring types using Transformer-based models (CodeBERT and CodeT5).
 
 ## 🔍 Overview
 

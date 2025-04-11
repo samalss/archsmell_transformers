@@ -26,7 +26,6 @@ This repository contains code and experiments from my master's thesis on predict
 ```
 ├── notebooks/       # Jupyter notebooks for CodeBERT and CodeT5
 ├── data/            # Dataset (TSV format)
-├── figures/         # Plots and confusion matrices
 ├── requirements.txt
 └── README.md
 ```

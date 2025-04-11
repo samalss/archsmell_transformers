@@ -18,8 +18,8 @@ This repository contains code and experiments from my master's thesis on predict
    pip install -r requirements.txt
    ```
 3. Run training notebooks:  
-   - `notebooks/train_codebert.ipynb`  
-   - `notebooks/train_codet5.ipynb`
+   - `notebooks/CodeBERT.ipynb`  
+   - `notebooks/CodeT5.ipynb`
 
 ## 📂 Structure
 
